@@ -47,7 +47,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=Linux&color=FFFF00)
+
 
 </br>
 
@@ -57,6 +57,8 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=Linux&color=FFFF00)
+![](https://img.shields.io/badge/Tools-Apple-informational?style=flat&logo=Apple&color=808080)
 
 
 ## 📈 GitHub Stats 
