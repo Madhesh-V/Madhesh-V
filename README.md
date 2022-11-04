@@ -66,3 +66,8 @@ I love the entire process of developing creative websites. I love the challenge 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhesh-V&layout=compact)](https://github.com/Madhesh-V)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Madhesh-V.Madhesh-V)](https://github.com/Madhesh-V)
+
+## 🎖️ Digital Badges 
+
+[![@madhesh's Holopin board](https://holopin.me/madhesh)](https://holopin.io/@madhesh)
+
