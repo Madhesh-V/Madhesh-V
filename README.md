@@ -63,7 +63,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Madhesh)](https://github.com/Madhesh-V)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Madhesh-V)](https://github.com/Madhesh-V)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhesh-V&layout=compact)](https://github.com/Madhesh-V)
 
