@@ -47,7 +47,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-
+![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=Linux&color=FFFF00)
 
 </br>
 
