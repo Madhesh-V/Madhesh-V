@@ -2,12 +2,10 @@
   <a href="https://github.com/Madhesh-V" target="_blank" rel="noreferrer"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLL5fpiYMihObJ0KCN0EMF53tjT3mLQR230Pzf6MFC8CL0ina4qBQsulHAr7DHzc6N0syaEAh3B3QTN334GL_58bangfgvS1mp5pd7Me6XNEN3IbnEmwphbSIwpQ6G1r_Gk5PqQ5yLOB_fgjsUR4NvEEOCqSPMVtm7_9AoCuelNsdD0QynELjfttvA/s1640/Picsart_22-11-04_17-37-07-620.jpg" alt="my banner"></a>
 </p>
 
-<h3 align="center">
-Hi there, I'm <a href="https://www.linkedin.com/in/madhesh-v/" target="_blank" rel="noreferrer">Madhesh</a> 👋
-</h3>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Madhesh+V)
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Astrophile🌌 Talks about #astronomy✨, #blockchain👨‍💻, #future-technology🛰, #cybersecurity♻️, #ethicalhacking💀, and Designer 🎨!
+I'm a Full-Stack Web Developer 💻, Astrophile🌌 Talks about #astronomy✨, #blockchain👨‍💻, #future-technology🛰, #cybersecurity♻️, #ethicalhacker💀, and Designer 🎨!
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
@@ -97,6 +95,3 @@ I love the entire process of developing creative websites. I love the challenge 
 </br>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/madheshv2020.png" alt="TryHackMe">
-
-
-
