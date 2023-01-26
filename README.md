@@ -2,7 +2,7 @@
   <a href="https://github.com/Madhesh-V" target="_blank" rel="noreferrer"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLL5fpiYMihObJ0KCN0EMF53tjT3mLQR230Pzf6MFC8CL0ina4qBQsulHAr7DHzc6N0syaEAh3B3QTN334GL_58bangfgvS1mp5pd7Me6XNEN3IbnEmwphbSIwpQ6G1r_Gk5PqQ5yLOB_fgjsUR4NvEEOCqSPMVtm7_9AoCuelNsdD0QynELjfttvA/s1640/Picsart_22-11-04_17-37-07-620.jpg" alt="my banner"></a>
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Madhesh+V)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Madhesh+Velu)
 
 <h2 align="center">
 I'm a Full-Stack Web Developer 💻, Astrophile🌌 Talks about #astronomy✨, #blockchain👨‍💻, #future-technology🛰, #cybersecurity♻️, #ethicalhacker💀, and Designer 🎨!
