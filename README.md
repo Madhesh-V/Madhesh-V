@@ -8,7 +8,7 @@
 I'm a Full-Stack Web Developer 💻 | Astrophile🌌 Talks about #astronomy✨ | #blockchain👨‍💻 | #future-technology🛰 | #cybersecurity♻️ | #ethicalhacker💀 | Designer 🎨!
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love the entire process of developing creative websites & Lovely NFTs. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
 
