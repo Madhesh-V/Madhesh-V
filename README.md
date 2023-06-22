@@ -82,9 +82,11 @@ I love the entire process of developing creative websites & Lovely NFTs. I love 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Madhesh-V)](https://github.com/Madhesh-V)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhesh-V&layout=compact)](https://github.com/Madhesh-V)
+</table>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Madhesh-V.Madhesh-V)](https://github.com/Madhesh-V)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Madhesh-V&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Madhesh-V" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Madhesh-V&&theme=tokyonight" alt="Madhesh-V" /></p>
 
 ## 🎖️ Digital Badges 
 
