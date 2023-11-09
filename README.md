@@ -64,8 +64,8 @@ I love the entire process of developing creative websites & Lovely NFTs. I love 
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&color=777B7E)
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=TailwindCSS&color=76A9FA)
 
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
