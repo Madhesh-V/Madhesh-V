@@ -13,7 +13,7 @@ I love the entire process of developing creative websites & Lovely NFTs. I love 
 ### 🤝 Connect with me:
 
 💬 If you have any question/feedback, contact my linkedin profile!
-<a href="https://www.linkedin.com/in/madhesh-v/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Madhesh | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/madhesh-v/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Madhesh | LinkedIn" width="21px"/></a>
  </br>
 
 ## 🔭 I'm currently working on
