@@ -90,7 +90,7 @@ I love the entire process of developing creative websites & Lovely NFTs. I love 
 
 ## 🎖️ Digital Badges 
 
-[![@madhesh's Holopin board](https://holopin.me/madhesh)](https://holopin.io/@madhesh)
+[![An image of @madhesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/madhesh)](https://holopin.io/@madhesh)
 <p><a href="https://github.com/Madhesh-V" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Madhesh-V/Madhesh-V/main/assects/HackSquad2023.png" alt="my banner"></a>
 </p>
   <div align="top"> 
